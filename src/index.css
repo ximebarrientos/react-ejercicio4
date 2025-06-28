@@ -11,6 +11,7 @@ main{
 .fondoRosaClaro{
     background-color: pink;
     color: palevioletred;
+    padding: 5%;
 }
 
 .fondoRosaOscuro{
